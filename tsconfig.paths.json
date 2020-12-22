@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@components/*": ["app/components/*"],
+      "@data/*": ["data/*"],
+      "@entities/*": ["domain/entities/*"],
+      "@fixtures": ["../test/fixtures"],
+      "@pages/*": ["app/pages/*"],
+      "@repositories/*": ["domain/repositories/*"],
+      "@slices/*": ["app/slices/*"],
+      "@store": ["app/store"],
+      "@usecases/*": ["domain/usecases/*"]
+    }
+  }
+}

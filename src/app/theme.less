@@ -1,0 +1,27 @@
+@import '~antd/lib/style/themes/default';
+@import '~antd/dist/antd';
+
+/* Default theme overriding */
+@font-family: 'Lato', sans-serif;
+@primary-color:rgb(251, 83, 83);
+@normal-color: rgb(204,204,204);
+
+@layout-body-background: white;
+
+/* Custom */
+@accent: rgb(8, 61, 119);
+@sider-width: 30%;
+
+@mobile: ~"only screen and (max-width: @{screen-sm})"; // 576px
+@tablet:  ~"only screen and (min-width: @{screen-md})"; // 768px
+@desktop: ~"only screen and (min-width: @{screen-lg})"; // 992px
+@large-desktop: ~"only screen and (min-width: @{screen-xl})"; // 1200px
+
+/* Overwrite antd styles not exposed by default vars */
+@media @tablet {
+  .ant-layout-sider {
+    max-width: @sider-width !important;
+    min-width: @sider-width !important;
+    width: @sider-width !important;
+  }
+}

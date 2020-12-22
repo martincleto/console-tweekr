@@ -1,0 +1,406 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Scarlet Witch",
+      "following": [
+        5,
+        8,
+        10,
+        11,
+        14,
+        20
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Captain America"
+    },
+    {
+      "id": 2,
+      "name": "Spiderman"
+    },
+    {
+      "id": 3,
+      "name": "Black Panther"
+    },
+    {
+      "id": 4,
+      "name": "Wonder Woman"
+    },
+    {
+      "id": 5,
+      "name": "Aquaman"
+    },
+    {
+      "id": 6,
+      "name": "Batwoman"
+    },
+    {
+      "id": 7,
+      "name": "Green Lantern"
+    },
+    {
+      "id": 8,
+      "name": "Batman"
+    },
+    {
+      "id": 9,
+      "name": "Incredible Hulk"
+    },
+    {
+      "id": 10,
+      "name": "Superman"
+    },
+    {
+      "id": 11,
+      "name": "Catwoman"
+    },
+    {
+      "id": 12,
+      "name": "Doctor Strange"
+    },
+    {
+      "id": 13,
+      "name": "Iron Man"
+    },
+    {
+      "id": 14,
+      "name": "Daredevil"
+    },
+    {
+      "id": 15,
+      "name": "Thor"
+    },
+    {
+      "id": 16,
+      "name": "Super López"
+    },
+    {
+      "id": 17,
+      "name": "Wolverine"
+    },
+    {
+      "id": 18,
+      "name": "Astro Boy"
+    },
+    {
+      "id": 19,
+      "name": "Cyclops"
+    },
+    {
+      "id": 20,
+      "name": "Captain Marvel"
+    },
+    {
+      "id": 21,
+      "name": "Storm"
+    },
+    {
+      "id": 22,
+      "name": "Invisible Woman"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "content": "The way I see it, every life is a pile of good things and bad things...",
+      "authorId": 22,
+      "timestamp": "2020-11-09T10:21:04.064Z"
+    },
+    {
+      "id": 2,
+      "content": "Cosmic ocean rich in mystery vastness is bearable only through love shores of the cosmic ocean vastness is bearable only through love stirred by starlight",
+      "authorId": 1,
+      "timestamp": "2020-11-09T10:24:04.064Z"
+    },
+    {
+      "id": 3,
+      "content": "Preserve and cherish that pale blue dot Euclid take root and flourish hydrogen atoms something incredible is waiting to be known invent the universe",
+      "authorId": 5,
+      "timestamp": "2020-11-09T12:01:24.064Z"
+    },
+    {
+      "id": 4,
+      "content": "Extraordinary claims require extraordinary evidence.",
+      "authorId": 20,
+      "timestamp": "2020-11-09T12:12:14.064Z"
+    },
+    {
+      "id": 5,
+      "content": "Astonishment Tunguska event network of wormholes the ash of stellar alchemy the sky calls to us hundreds of thousands.",
+      "authorId": 22,
+      "timestamp": "2020-11-09T12:21:04.064Z"
+    },
+    {
+      "id": 6,
+      "content": "Two ghostly white figures in coveralls and helmets are softly dancing the only home we've ever known ",
+      "authorId": 21,
+      "timestamp": "2020-11-09T13:01:02.064Z"
+    },
+    {
+      "id": 7,
+      "content": "From which we spring descended from astronomers are creatures of the cosmos concept of the number one network of wormholes as a patch of light",
+      "authorId": 18,
+      "timestamp": "2020-11-09T13:05:12.064Z"
+    },
+    {
+      "id": 8,
+      "content": "Worldlets of brilliant syntheses concept of the number one Sea of Tranquility",
+      "authorId": 17,
+      "timestamp": "2020-11-09T13:35:02.064Z"
+    },
+    {
+      "id": 9,
+      "content": "Consciousness courage of our questions prime number cosmos paroxysm of global death Rig Veda?",
+      "authorId": 16,
+      "timestamp": "2020-11-09T13:51:20.064Z"
+    },
+    {
+      "id": 10,
+      "content": "Network of wormholes intelligent beings citizens of distant epochs!",
+      "authorId": 15,
+      "timestamp": "2020-11-09T14:01:13.064Z"
+    },
+    {
+      "id": 11,
+      "content": "Something incredible is waiting to be known two ghostly white figures.",
+      "authorId": 14,
+      "timestamp": "2020-11-09T14:07:21.064Z"
+    },
+    {
+      "id": 12,
+      "content": "",
+      "authorId": 13,
+      "timestamp": "2020-11-09T14:11:05.064Z"
+    },
+    {
+      "id": 13,
+      "content": "The only home we've ever known vastness is bearable only through love extraordinary claims require extraordinary evidence network.",
+      "authorId": 14,
+      "timestamp": "2020-11-09T14:19:08.064Z"
+    },
+    {
+      "id": 14,
+      "content": "At the edge of forever hearts of the stars Flatland emerged into consciousness are creatures of the cosmos",
+      "authorId": 12,
+      "timestamp": "2020-11-09T14:21:48.064Z"
+    },
+    {
+      "id": 15,
+      "content": "Kindling the energy hidden in matter dream of the mind's eye...",
+      "authorId": 10,
+      "timestamp": "2020-11-09T14:24:51.064Z"
+    },
+    {
+      "id": 16,
+      "content": "Emerged into consciousness the only home we've ever known with pretty stories for which there's little good.",
+      "authorId": 9,
+      "timestamp": "2020-11-09T14:28:11.064Z"
+    },
+    {
+      "id": 17,
+      "content": "A vigilante is just a man lost in scramble for his own gratification.",
+      "authorId": 8,
+      "timestamp": "2020-11-09T15:02:30.064Z"
+    },
+    {
+      "id": 18,
+      "content": "What designer doesn’t want their product to become a legend?",
+      "authorId": 7,
+      "timestamp": "2020-11-09T15:12:13.064Z"
+    },
+    {
+      "id": 19,
+      "content": "We need to dialog around your choice of work attire the closest elephant is the most dangerous.",
+      "authorId": 6,
+      "timestamp": "2020-11-09T15:20:33.064Z"
+    },
+    {
+      "id": 20,
+      "content": "Cross sabers quantity we want to see more charts.",
+      "authorId": 22,
+      "timestamp": "2020-11-09T16:01:16.064Z"
+    },
+    {
+      "id": 21,
+      "content": "Pushback. Drink the Kool-aid.",
+      "authorId": 10,
+      "timestamp": "2020-11-09T16:06:56.064Z"
+    },
+    {
+      "id": 22,
+      "content": "That ipo will be a game-changer!",
+      "authorId": 11,
+      "timestamp": "2020-11-09T16:39:26.064Z"
+    },
+    {
+      "id": 23,
+      "content": "Net no scraps hit the floor Bob called an all-hands this afternoon.",
+      "authorId": 12,
+      "timestamp": "2020-11-09T17:09:06.064Z"
+    },
+    {
+      "id": 24,
+      "content": "Superiority burying truth disgust pious convictions salvation selfish society grandeur.",
+      "authorId": 14,
+      "timestamp": "2020-11-09T17:15:01.064Z"
+    },
+    {
+      "id": 25,
+      "content": "Ideal fearful selfish chaos endless pious play...",
+      "authorId": 13,
+      "timestamp": "2020-11-09T17:28:19.064Z"
+    },
+    {
+      "id": 26,
+      "content": "What's Spanish for \"I know you speak English?\"",
+      "authorId": 11,
+      "timestamp": "2020-11-09T17:41:32.064Z"
+    },
+    {
+      "id": 27,
+      "content": "Bad news. Andy Griffith turned us down. He didn't like his trailer.",
+      "authorId": 12,
+      "timestamp": "2020-11-09T18:01:34.064Z"
+    },
+    {
+      "id": 28,
+      "content": "Say goodbye to these, because it's the last time!",
+      "authorId": 3,
+      "timestamp": "2020-11-09T18:23:42.064Z"
+    },
+    {
+      "id": 29,
+      "content": "I care deeply for nature.",
+      "authorId": 1,
+      "timestamp": "2020-11-09T18:56:27.064Z"
+    },
+    {
+      "id": 30,
+      "content": "No... but I'd like to be asked! I don't criticize you!",
+      "authorId": 22,
+      "timestamp": "2020-11-09T19:16:42.064Z"
+    },
+    {
+      "id": 31,
+      "content": "There's only one man I've ever called a coward, and that's Brian Doyle Murray.",
+      "authorId": 13,
+      "timestamp": "2020-11-09T19:25:12.064Z"
+    },
+    {
+      "id": 32,
+      "content": "I'm going to tell you something that I've never told anyone before.",
+      "authorId": 1,
+      "timestamp": "2020-11-09T19:44:38.064Z"
+    },
+    {
+      "id": 33,
+      "content": "I'm thinking two circus clowns dancing.",
+      "authorId": 12,
+      "timestamp": "2020-11-09T20:12:42.064Z"
+    },
+    {
+      "id": 34,
+      "content": "I'm generally confused most of the time. Makes me a... scientist.",
+      "authorId": 3,
+      "timestamp": "2020-11-09T21:24:13.064Z"
+    },
+    {
+      "id": 35,
+      "content": "Watching ice melt.",
+      "authorId": 1,
+      "timestamp": "2020-11-09T22:41:43.064Z"
+    },
+    {
+      "id": 36,
+      "content": "I think we have a lot to discuss. After all, you are a client.",
+      "authorId": 22,
+      "timestamp": "2020-11-09T22:56:37.064Z"
+    },
+    {
+      "id": 37,
+      "content": "I'm something new entirely. With my own set of rules. I'm Dexter.",
+      "authorId": 13,
+      "timestamp": "2020-11-09T23:00:19.064Z"
+    },
+    {
+      "id": 38,
+      "content": "Tonight's the night!",
+      "authorId": 4,
+      "timestamp": "2020-11-09T23:27:38.064Z"
+    },
+    {
+      "id": 39,
+      "content": "You basically meant beat them in a football match, didn't you?",
+      "authorId": 2,
+      "timestamp": "2020-11-09T23:53:08.064Z"
+    },
+    {
+      "id": 40,
+      "content": "Heh-haa! Super squeaky bum time!",
+      "authorId": 13,
+      "timestamp": "2020-11-10T00:13:42.064Z"
+    },
+    {
+      "id": 41,
+      "content": "Did I mention we have comfy chairs?",
+      "authorId": 19,
+      "timestamp": "2020-11-10T00:29:59.064Z"
+    },
+    {
+      "id": 42,
+      "content": "Everything we do, every thought we've ever had, is produced by the human brain. But exactly how it operates remains one of the biggest unsolved mysteries.",
+      "authorId": 20,
+      "timestamp": "2020-11-10T00:48:12.064Z"
+    },
+    {
+      "id": 43,
+      "content": "The more we probe its secrets, the more surprises we find.",
+      "authorId": 1,
+      "timestamp": "2020-11-10T01:30:37.064Z"
+    },
+    {
+      "id": 44,
+      "content": "I have only one bit of advice. Get out of their way. Kids are born curious. Period.",
+      "authorId": 15,
+      "timestamp": "2020-11-10T05:47:22.064Z"
+    },
+    {
+      "id": 45,
+      "content": "Show me a dead alien. Better yet, show me a live one!",
+      "authorId": 14,
+      "timestamp": "2020-11-10T06:03:46.064Z"
+    },
+    {
+      "id": 46,
+      "content": "Kids should be allowed to break stuff more often!",
+      "authorId": 15,
+      "timestamp": "2020-11-10T07:18:23.064Z"
+    },
+    {
+      "id": 47,
+      "content": "Do you move against the background stars, regardless of what you're made of?",
+      "authorId": 4,
+      "timestamp": "2020-11-10T07:31:45.064Z"
+    },
+    {
+      "id": 48,
+      "content": "We know in advance if one is going to put us at risk.",
+      "authorId": 2,
+      "timestamp": "2020-11-10T07:50:24.064Z"
+    },
+    {
+      "id": 49,
+      "content": "Stephen Hawking's been watching too many Hollywood movies.",
+      "authorId": 22,
+      "timestamp": "2020-11-10T08:00:37.064Z"
+    },
+    {
+      "id": 50,
+      "content": "You come together, but no one speaks the same language, so you need some translators.",
+      "authorId": 11,
+      "timestamp": "2020-11-10T08:01:25.064Z"
+    }
+  ]
+}
